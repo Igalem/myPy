@@ -1,0 +1,8 @@
+[project]
+name = "mouse-mover"
+version = "0.1.0"
+description = "Small GUI to jiggle the mouse on an interval"
+requires-python = ">=3.12"
+dependencies = [
+    "pyautogui>=0.9.54",
+]
